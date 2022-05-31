@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/reactPortfolio/static/js/main.f57f7485.js",
+    "static/media/noImg.png": "/reactPortfolio/static/media/noImg.ec692fdf273c86a0ba19.png",
+    "index.html": "/reactPortfolio/index.html",
+    "main.f57f7485.js.map": "/reactPortfolio/static/js/main.f57f7485.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f57f7485.js"
+  ]
+}
